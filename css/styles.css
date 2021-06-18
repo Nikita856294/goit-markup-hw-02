@@ -75,13 +75,14 @@ body{
 }
 /* main content section */
 .main-title {
-  text-transform: uppercase
-  font-weight: 900;
-  font-size: 44px;
-  line-height: 1.65;
-  text-align: center;
-  letter-spacing: 0.06em;
-  color:var(--main-title-color);
+  font-family: Roboto;
+font-weight: 900;
+font-size: 44px;
+line-height: 1.65;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color:var(--main-title-color);
 }
 .main-section {
   background:var(--primary-background);
